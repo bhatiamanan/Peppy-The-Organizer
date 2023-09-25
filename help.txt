@@ -1,0 +1,3 @@
+https://youtu.be/KD9xWuprK-4
+
+https://nodejs.org/api/path.html#pathbasenamepath-suffix
